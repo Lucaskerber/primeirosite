@@ -1,0 +1,103 @@
+body{
+
+		font-family:arial, "comic sans Ms", sans-serif;
+
+	 background-color: black;
+
+		color: white;
+
+		text
+		
+		
+}
+
+h1{
+
+	text-align: left;
+	margin: 0px;
+	padding: 13px;
+	background-color: red;
+	color: white;
+}
+
+h2{
+	
+	color: white;
+}
+
+.servicos{
+
+	color: black;
+}
+
+.contato{
+	color: red;
+	text-align: right;
+
+}
+
+
+.sobre{
+
+	list-style-type: none;
+
+}
+
+
+a:hover{
+	color: red;
+	border: 2px solid #bc2035; 
+}
+
+a{
+	text-decoration: none;
+
+}
+
+
+.sobrelink{
+
+	text-decoration: underline;
+
+}
+
+.insta{
+	list-style-image: url(insta.png);
+}
+
+.youtube{
+
+	list-style-image: url(Youtube.png);
+}
+
+.whats{
+	list-style-image: url(whats.png);
+}
+
+.telegram{
+	list-style-image: url(telegram.png);
+}
+
+.email{
+	list-style-image: url(email.png);
+}
+
+.proj{
+	list-style-image: url(proj.png);
+}
+
+.art{
+
+	list-style-image: url(art.png);
+}
+
+.construção{
+	list-style-image: url(construcao.png);
+}
+
+.pericia{
+
+	list-style-image: url(pericia.png);
+}
+
+
